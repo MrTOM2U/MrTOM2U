@@ -1,6 +1,6 @@
 # Olá, eu sou o Wellington Paiva 👋
 
-[cite_start]Estudante de **Análise e Desenvolvimento de Sistemas (4º Período - Finalista)**. Sou um entusiasta de tecnologia com foco em **Cibersegurança**, movido pela curiosidade e pela capacidade de aprender novas ferramentas rapidamente para resolver problemas reais.
+Estudante de **Análise e Desenvolvimento de Sistemas (4º Período - Finalista)**. Sou um entusiasta de tecnologia com foco em **Cibersegurança**, movido pela curiosidade e pela capacidade de aprender novas ferramentas rapidamente para resolver problemas reais.
 
 ---
 
